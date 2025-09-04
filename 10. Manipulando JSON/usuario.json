@@ -1,0 +1,32 @@
+[
+ {
+  "Nome": "Maria",
+  "Tipo": "Leitora",
+  "Idade": 30,
+  "Ativo": true,
+  "Social": {
+   "Facebook": "facebook/Maria",
+   "Instagran": "instagran/Maria"
+  }
+ },
+ {
+  "Nome": "Joana",
+  "Tipo": "Autora",
+  "Idade": 22,
+  "Ativo": true,
+  "Social": {
+   "Facebook": "facebook/Joana",
+   "Instagran": "instagran/Joana"
+  }
+ },
+ {
+  "Nome": "Pedro",
+  "Tipo": "Leitor",
+  "Idade": 36,
+  "Ativo": false,
+  "Social": {
+   "Facebook": "",
+   "Instagran": ""
+  }
+ }
+]
